@@ -10,5 +10,5 @@
 checklist = 1..10
  
 for all in checklist 
-    puts "I'm putting a pair of shoes away."
+    puts "Wingardium Leviosa"
   end
