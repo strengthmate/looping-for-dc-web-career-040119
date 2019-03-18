@@ -9,6 +9,6 @@
 
 checklist = 1..10
  
-for 1 in 10 
+for all in checklist 
     puts "I'm putting a pair of shoes away."
   end
